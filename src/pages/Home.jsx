@@ -43,7 +43,7 @@ function Home() {
           including hands-on projects, quizzes, and personalized feedback from
           instructors.
         </div>
-
+          {/* hi my name is gaurav */}
         {/* CTA Buttons */}
         <div className="mt-8 flex flex-row gap-7">
           <CTAButton active={true} linkto={"/signup"}>
